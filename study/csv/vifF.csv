@@ -1,0 +1,19 @@
+,features,VIF Factor
+0,equivalentSoundLevel_dBp,4.3125083177990176
+1,alphaRatioV_sma3nz_amean,3.253400448311986
+2,logRelF0-H1-H2_sma3nz_amean,3.48852636882073
+3,mfcc1V_sma3nz_stddevNorm,1.436364461498092
+4,jitterLocal_sma3nz_amean,1.2916874543219663
+5,mfcc2V_sma3nz_stddevNorm,1.1293275123129562
+6,F0semitoneFrom27.5Hz_sma3nz_amean,3.255079170318031
+7,F0semitoneFrom27.5Hz_sma3nz_meanFallingSlope,4.128491903589805
+8,slopeV500-1500_sma3nz_stddevNorm,1.151004707138716
+9,slopeUV0-500_sma3nz_amean,1.4798399226791557
+10,spectralFluxV_sma3nz_amean,26.82205358603545
+11,spectralFlux_sma3_amean,28.208896966957354
+12,F1bandwidth_sma3nz_stddevNorm,1.2152473436084843
+13,slopeUV500-1500_sma3nz_amean,1.8420718761877841
+14,F0semitoneFrom27.5Hz_sma3nz_stddevFallingSlope,3.831911727895216
+15,VoicedSegmentsPerSec,1.183711174520039
+16,hammarbergIndexV_sma3nz_amean,4.286382263456785
+17,logRelF0-H1-A3_sma3nz_amean,4.136367292271751

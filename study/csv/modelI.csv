@@ -1,0 +1,16 @@
+,coef
+const,    6.7481
+equivalentSoundLevel_dBp,    0.0901
+alphaRatioV_sma3nz_stddevNorm,   -0.9500
+spectralFluxUV_sma3nz_amean,   -2.5804
+F3bandwidth_sma3nz_stddevNorm,    1.1880
+logRelF0-H1-H2_sma3nz_stddevNorm,    0.0030
+F0semitoneFrom27.5Hz_sma3nz_percentile80.0,    0.0426
+F2frequency_sma3nz_amean,   -0.0008
+F2bandwidth_sma3nz_stddevNorm,    1.4931
+logRelF0-H1-A3_sma3nz_stddevNorm,   -0.4353
+HNRdBACF_sma3nz_amean,   -0.0417
+slopeV500-1500_sma3nz_stddevNorm,    0.0004
+F1bandwidth_sma3nz_stddevNorm,   -0.6416
+mfcc2V_sma3nz_stddevNorm,   -0.0068
+spectralFluxV_sma3nz_stddevNorm,   -0.2376
